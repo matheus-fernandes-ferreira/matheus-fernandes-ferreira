@@ -1,6 +1,5 @@
-<h3 align="center">I am a system development student in Brazil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-fernandes-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-fernandes-ferreira" /> </p>
+<h1 align="center">Hi 👋, I'm Matheus Fernandes</h1>
+<h3 align="center">I am a System Development student in Brazil. Master in Neuroscience and Bachelor in Biotechnology.</h3>
 
 - 🌱 I’m currently learning **Java Script, Java, HTML**
 
