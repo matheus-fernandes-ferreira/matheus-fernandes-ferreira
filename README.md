@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Fernandes</h1>
 <h3 align="center">I am a System Development student in Brazil. Master in Neuroscience and Bachelor in Biotechnology.</h3>
 
-- 🌱 I’m currently learning **Java Script, Java, HTML**
+- 🌱 I’m currently learning **Java Script, TypeScript, Java, HTML5, CSS3**
 
 - 📫 How to reach me **matheusfer200@gmail.com**
 
