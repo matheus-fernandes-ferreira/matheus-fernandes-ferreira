@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, meu nome é Matheus</h1>
-<h3 align="center">Estudante do curso técnico Desenvolvimento de sistemas. Bacharel em Biotecnologia e Mestre em Neuroengenharia</h3>
+<h3 align="center">Técnico em Desenvolvimento de sistemas. Bacharel em Biotecnologia e Mestre em Neuroengenharia</h3>
 
 - 🌱 Atualmente estou aprendendo **JavaScript, TypeScript, Node.js**
 
