@@ -1,7 +1,13 @@
 <h1 align="center">Olá👋, meu nome é Matheus</h1>
 <h3 align="center">Técnico em Desenvolvimento de sistemas. Bacharel em Biotecnologia e Mestre em Neuroengenharia</h3>
 
-- 🌱 Atualmente estou aprendendo **JavaScript, TypeScript, Node.js**
+Sou um desenvolvedor apaixonado por tecnologia, focado em criar aplicações web e mobile eficientes. Trabalho com React, React Native, TypeScript, Node.js, Express, Prisma e bancos de dados como MongoDB, Firebase e SQL. Além disso, estou me aventurando em Python recentemente (dando os primeiros passos).
+
+🚀 Meus últimos projetos foram: um sistema de gerenciamento e reserva de notebooks escolares e um app para loja de moda feminina, além de projetos de gestão de estacionamento e ferramentas para manipulação de arquivos CSV.
+
+🔍 Busco sempre melhorar a experiência do usuário e a performance das aplicações, utilizando boas práticas e testes automatizados com Jest.
+
+💡 Adoro desafios e estou sempre explorando novas tecnologias!
 
 - Para entrar em contato comigo **matheusfer200@gmail.com**
 
